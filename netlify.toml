@@ -1,7 +1,3 @@
 [graph]
   moduleType = "esm"
   language = "typescript"
-
-[[redirects]]
-  from = "/*"
-  to = "/SpotifySearchForm"
